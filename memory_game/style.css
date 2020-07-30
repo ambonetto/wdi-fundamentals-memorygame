@@ -1,9 +1,12 @@
 body {
 	text-align: center;
 	margin: 0;
+<<<<<<< HEAD
 	-webkit-font-smoothing: antialiased;
 	font-family: "Raleway", sans-serif;
 	font-size: 18px;
+=======
+>>>>>>> 11f21582862cab0172fee7b3cf54fc73f81ae52b
 }
 
 h1 {
@@ -36,34 +39,58 @@ a {
 	font-weight: 600;
 	font-size: 18px;
 	text-decoration: none;
+<<<<<<< HEAD
 	margin: 0 20px;
+=======
+	margin: 0 20px 0 20px;
+>>>>>>> 11f21582862cab0172fee7b3cf54fc73f81ae52b
 	color: #FFFFFF;
 }
 
 header {
 	background-color: #F15B31;
 	color: #FFFFFF;
+<<<<<<< HEAD
 	padding: 30px 20px;
+=======
+	padding: 30px 20px 30px 20px;
+>>>>>>> 11f21582862cab0172fee7b3cf54fc73f81ae52b
 }
 
 nav {
 	background-color: #00A6B3;
 	color: #FFFFFF;
+<<<<<<< HEAD
 	padding: 20px 0;
+=======
+	padding: 20px 0 20px 0;
+>>>>>>> 11f21582862cab0172fee7b3cf54fc73f81ae52b
 }
 
 main {
 	width: 850px;
+<<<<<<< HEAD
 	marign: 35px auto;
 }
 
 img {
 	margin: 40px 8px 0;
+=======
+	marign: 35px auto 35px auto;
+}
+
+img {
+	margin: 40px 8px 0 8px;
+>>>>>>> 11f21582862cab0172fee7b3cf54fc73f81ae52b
 }
 
 footer {
 	text-transform: uppercase;
+<<<<<<< HEAD
 	padding: 0 20px;
+=======
+	padding: 0 20px 0 20px;
+>>>>>>> 11f21582862cab0172fee7b3cf54fc73f81ae52b
 	background: #0D2C40;
 	color: white;
 	font-size: 14px;

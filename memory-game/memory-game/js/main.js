@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 //Test to see JavaScript is working in the Developer Tools
 //console.log("Up and running!");
 
@@ -73,3 +74,12 @@ function createBoard() {
 
 //Starting the game for the first time
 createBoard();
+=======
+let cardOne = "queen";
+let cardTwo = "queen";
+let cardThree = "king";
+let cardFour = "king";
+
+console.log("User flipped " + cardOne);
+console.log("User flipped " + cardTwo);
+>>>>>>> 11f21582862cab0172fee7b3cf54fc73f81ae52b
